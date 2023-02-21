@@ -1,3 +1,4 @@
+faces - (folder) - these are the images of the faces in JPG format - with the image file name as the name of the person.
 cmake
 dlib
 face_recognition
